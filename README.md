@@ -3,7 +3,6 @@
 **Research internship at ArvanCloud (CDN and cloud provider), Tehran, summer 2026 (3 months)**
 
 > The source code is kept private. This page summarises the problem, my approach and the results.
-> I am happy to explain the implementation in detail during an interview.
 
 ## The problem
 
